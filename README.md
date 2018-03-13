@@ -6,5 +6,3 @@ In this project I have detected lane lines in images using Python and OpenCV. I 
 
 Here is a link to the final video output that was generated using the jupyter notebook:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MZiqBbeHvQQ/0.jpg)](https://www.youtube.com/watch?v=MZiqBbeHvQQ)
-
-https://youtu.be/MZiqBbeHvQQ
